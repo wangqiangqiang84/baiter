@@ -1,0 +1,12 @@
+body{ background: #f5f5f5;}
+#function{
+    margin: 50px 0;
+}
+.container{ background: #fff;}
+#function .col-md-4 {  margin: 20px 0;}
+#function .col-md-4>span{  font-size: 18px;  }
+#function .col-md-4>p{  padding-left: 50px;  color: #aaa; text-align: left; }
+
+
+#point,#agent,#warning,#business,#operating{  padding: 20px;  }
+#order1{  padding: 20px 0; background-size:100%;}

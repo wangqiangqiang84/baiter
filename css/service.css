@@ -1,0 +1,74 @@
+#course1,#course2{  text-align: center;  padding:20px 0;  }
+.course1 {  margin: 20px auto ;  text-align: center;  }
+.course1 img{  display: block;  text-align: center;  margin: 20px auto;  }
+.course1 .btn{  border: 0;  background: 0;  color:#333;  }
+#member{  text-align: center;  padding:50px 0;  }
+h2{  padding: 10px 0;  text-align: center;  }
+p{  font-size: 1em;  color:#333;  padding: 20px;  text-align: center;  letter-spacing:2px;  }
+#catering,#order{  padding:20px 0;  vertical-align: middle;  margin: 0 auto;  }
+#employee{  text-align: center;  padding:20px 0;  vertical-align: middle;  margin: 0  auto; }
+#earnings{  padding: 20px 0;  }
+.text{  margin-top:100px;  }
+#course2 .container{  background: url("../images/canyin/canyin1.jpg") no-repeat;  color:#fff;  margin:20px auto;  }
+#course2 img{  padding: 10px 0;  }
+#course2  .btn{  color:#fff;  }
+#course1 p{  color:#aaa;  padding: 10px;  }
+#course1 .course1:hover p{  color:#333;  font-family: "Consolas", "Menlo", "Courier", monospace;  }
+
+#yidong{  width: 100%;  height: 100%;  margin: 20px auto;  background: url("../images/meirong/yidong.png");  color: #fff;  text-align: center;  }
+#yidong .col-md-5{  padding: 20px 0;  }
+#yidong .col-md-5 p{  border-bottom: 1px solid #fff;  }
+#yidong .course1{  margin: 50px auto;  }
+#yidong .course1 p{  color: #fff;  font-size: .8em;  }
+#Personalized .course1{  padding: 0;  margin: 0;  }
+#Personalized .col-md-4{  margin-top: 150px;  color: #333;  }
+#huiyuanka,#weixin{  padding: 50px 0;}
+#daohang{  margin: 50px auto;  text-align: center;  }
+#abstract{  background:url("../images/about/about3.png") 100% no-repeat;  padding: 50px 0;  }
+#environment{  /*background: #0ea7eb;*/  padding: 30px 0;  }
+#environment .col-md-3{  margin: 10px 0;  }
+#team {  padding: 30px 0;  background: #f5f5f5;  }
+#team .col-md-3{  margin: 10px 0;  }
+#advantage{  padding: 20px 0;  background: url("../images/about/advantage.png") no-repeat;  }
+#advantage .col-md-4 p{  text-align: left;  padding: 10px 0;  cursor: pointer;  }
+#advantage .advantage{  border: 1px solid #0ea7eb;  border-radius: 10px;  margin: 30px 0;  padding: 20px ;  cursor: pointer;  }
+#advantage .advantage:hover{  background: #0ea7eb;  }
+#advantage .advantage:hover p{  color: #fff;  }
+#advantage .advantage:hover b{  color: #faea39;  }
+#advantage .title{  margin-top: 20px;  }
+#advantage  .advantage p {  font-size: .9em;  color: #0ea7eb;  text-align: left;  }
+#advantage  .advantage b{  color: #ff0000;  font-weight: normal;  font-size: .9em;  padding: 0 20px;  }
+#cooperate{  color: #333;  padding:20px ;  }
+#cooperate .row{  border: 1px solid #0ea7eb;  border-radius: 10px;  }
+#cooperate .title{  margin-top: 30px;  }
+#cooperate .col-md-10{  margin: 20px 0;  }
+#cooperate .col-md-10:hover p{  color: #0ea7eb;  font-size: .9em;  }
+#cooperate p{  color: #333;  text-align: left;  font-size: .9em;  }
+
+/*industry*/
+#industry{  padding: 50px 0;  }
+#industry h3{  color: #0ea7eb;  margin: 0;  }
+#industry .industry{  margin:50px 0;  }
+#industry h5,#industry h6{  color: #13b5b1;  }
+#industry p{  font-size: .8em;  color: #0ea7eb;  text-align: left;  padding: 0;  }
+/*industry*/
+
+/*advertises*/
+#advertises .col-md-10{  padding:0 20px;  margin: 10px 0;  }
+#advertises h4{  margin: 10px ;  padding: 10px ;  display: inline-block;  background: #0ea7eb;  color: #fff;  }
+#advertises  h6{  margin: 0;  padding: 0;  }
+#advertises .row .col-md-10 p{  font-size: .9em;  margin: 0;  padding: 20px;  text-align: left;  }
+/*advertises*/
+
+/*contact*/
+#contact1{  margin: 50px 0;  text-align: center;  }
+#contact1 .col-md-3{  margin:30px 0 ;  }
+#contact1 p{  border: 1px solid #a2c567;  border-radius:10px;  background: url("../images/contact/dianhua.png") 50% 10% no-repeat;  padding-top: 120px ;  font-size: .9em;  }
+#contact1  .QQ p{  border: 1px solid #7093e5;  background: url("../images/contact/QQ.png") 50% 10% no-repeat;  }
+#contact1  .emial p{  border: 1px solid #70dbe5;  background: url("../images/contact/youxiang.png") 50% 10% no-repeat;  }
+#contact1  .address p{  border: 1px solid #ffc444;  background: url("../images/contact/weizhi.png") 50% 10% no-repeat;  }
+#l-map{  height:500px;  width:100%;  margin-top: 50px;  }
+#l-map p{  background: url("../images/contact/dizhi.jpg") center no-repeat;  }
+/*contact*/
+
+

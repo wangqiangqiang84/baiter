@@ -1,0 +1,130 @@
+body{
+    font-family: 'Microsoft YaHei', sans-serif;
+}
+.mai-icon{
+    background: #0ea7eb;
+    color: #fff;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    margin-right: 20px;
+}
+/*nav*/
+.navbar-default{
+    background-color: #fff;
+    border: none;
+    box-shadow: 0 2px 8px 0 rgba(50,50,50,0.25);
+}
+.navbar-default .navbar-brand {
+    font-size: 30px;
+    font-weight: bold;
+    color: #0ea7eb;
+    height: 70px;
+    line-height: 35px;
+}
+.navbar-default .navbar-nav>li>a {
+    font-size: 14px;
+    color: #666;
+    height: 70px;
+    line-height: 35px;
+}
+.navbar-toggle{
+    margin-top: 17px;
+}
+.navbar-default .navbar-toggle:hover {
+    border-color: #0ea7eb;
+    background-color: #0ea7eb;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #0000fa;
+}
+/*home*/
+#home{
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    width: 100%;
+    margin-top: -20px;
+}
+.lvjing{
+    width: 100%;
+    height: 100%;
+}
+#home h1{
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 25px;
+}
+#home p{
+    font-weight: 400;
+    line-height: 35px;
+}
+#home img{
+    margin-top: 15px;
+    display: inline-block;
+}
+/*bbs*/
+#bbs , #bbs1{
+    padding: 80px 0;
+    text-align: center;
+}
+#bbs h5 , #bbs1 h5{
+    padding-bottom: 40px;
+}
+#bbs .col-md-4 , #bbs1 .col-md-3{
+    padding: 15px;
+}
+#bbs .col-md-4:hover {
+    background: #f5f5f5;
+    box-shadow: 1px 1px 4px #ccc;
+}
+#bbs a , #bbs1 a{
+    color: #212121;
+    text-decoration: none;
+}
+#bbs img , #bbs1 img{
+    margin: 0 auto;
+}
+#bbs p.icon{width: 100px;height: 100px;background: #19caeb;border-radius: 50%;padding: 25px 0;margin:0 auto;}
+#bbs .col-md-4:nth-child(2) p.icon{ background: #20e0c8;}
+#bbs .col-md-4:nth-child(3) p.icon{ background: #4cd590;}
+
+
+/*HTML5 + bootstrap*/
+#html5,#html51{  background: #f8f8f8;  }
+#html5 , #bootstrap , #html51 , #html52{  padding: 50px 0;  }
+/*#html5 h3 , #bootstrap h2 , #html51 h2 , #html52 h2{  font-weight: bold;  }*/
+#html5 p  , #bootstrap p , #html51 p{  line-height: 25px;  }
+
+/*course*/
+#course{ background: #f8f8f8;   padding: 80px 0;  text-align: center;  margin:0 auto;  }
+#course h5{  padding-bottom: 60px;  }
+#course .col-md-3{  margin-bottom: 20px;  }
+.course p{  width: 100px;  height: 100px;  background: #fff;  border-radius: 50%;  padding-top: 10%;  padding-left: 10%;  margin:0 auto;  }
+
+
+/*app*/
+#app{  padding: 80px 0;  background: url('../images/index/ys1.png');  }
+#app{ text-align: center}
+#app h5{  padding-bottom: 30px;  text-align: center;  }
+#app .col-md-2{  margin: 10px 20px;  }
+#app .col-md-4{  background: rgba(255,255,255,.8);  margin: 10px 10px;  }
+#app p{  padding: 20px 10px;  text-align: left;  color:#aaa;  }
+#app p:hover{  color:#333;  }
+
+
+/*contact*/
+#contact{  background: url("../images/contact.jpg") no-repeat;  background-size: cover;  color: #ffffff;  }
+#contact .lvjing1{  padding-top: 30px;  background: rgba(0,0,0,0.7);  }
+#contact h2{  font-weight: bold; margin-top: 0;  margin-bottom: 25px;  }
+#contact p{  line-height: 25px;  margin-bottom: 20px;  }
+#contact .form-control {  border: none;  border-radius: 0;  height: 50px;  margin-bottom: 20px;  }
+#contact textarea.form-control{  height: auto;  }
+#contact input[type="submit"]{  background: #0ea7eb;  color: #fff;  font-weight: bold;  transition: all 0.3s;  }
+#contact input[type="submit"]:hover{ background:#0066cc;  }
+
+/*footer*/
+footer{  font-weight: 400;  text-align: center;  background: #f5f5f5;  }
+footer p{  padding:10px 0;  margin: 0;  font-size: .5em;  }
